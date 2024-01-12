@@ -1,4 +1,0 @@
-/* This is a multi-line
-        comment*/
-    int c;
-    if (c == d) { IF = a; }
